@@ -11,7 +11,7 @@
 - Microsoft Specialist: Windows 7
 - Microsoft Technology Associate: Software Development Fundamentals
 
-## Medicine
+## Emergency Medical Services
 - National Registry of Emergency Medical Technicians: EMT
 - California Emergency Medical Technician
 - American Heart Association BLS Provider
