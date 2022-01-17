@@ -4,7 +4,9 @@
 - Certified Kubernetes Administrator
 - CompTIA A+
 - Linux Foundation Certified System Administrator
+- Microsoft 365 Certified: Teams Administrator Associate
 - Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Devops Engineer Expert
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified IT Professional: Enterprise Desktop Support Technician
