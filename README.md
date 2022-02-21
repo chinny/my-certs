@@ -1,6 +1,7 @@
 # my-certs
 
 ## Information Technology
+- AWS Certified SysOps Administrator - Associate
 - Certified Kubernetes Administrator
 - CompTIA A+
 - Linux Foundation Certified System Administrator
